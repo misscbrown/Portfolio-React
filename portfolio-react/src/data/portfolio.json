@@ -1,0 +1,45 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/covers/one.png",
+      "title": "Work Day Scheduler",
+      "description": "CSS, HTML, Bootstrap",
+      "url": "https://github.com/misscbrown/Work-Day-Scheduler"
+    },
+
+    {
+      "cover": "/portfolio/covers/two.png",
+      "title": "E Commerce Back End",
+      "description": "MYSQL, Javascript, Insomnia",
+      "url": "https://github.com/misscbrown/e-commerce-back-end"
+    },
+
+    {
+      "cover": "/portfolio/covers/three.png",
+      "title": "Portfolio",
+      "description": "CSS, Javascript, HTML",
+      "url": "https://github.com/misscbrown/Dev-Portfolio"
+    },
+
+    {
+      "cover": "/portfolio/covers/four.png",
+      "title": "Social Network API",
+      "description": "JS, MongoDB, Mongoose, Insomnia",
+      "url": "https://github.com/misscbrown/Social-Network-API"
+    },
+
+    {
+      "cover": "/portfolio/covers/five.png",
+      "title": "Weather App",
+      "description": "Javascript, Bootstrap, HTML, API",
+      "url": "https://github.com/misscbrown/weather-forecast-app"
+    },
+
+    {
+      "cover": "/portfolio/covers/six.png",
+      "title": "Readme Generator",
+      "description": "Javascript, NodeJS",
+      "url": "https://github.com/misscbrown/Readme-Creator"
+    }
+  ]
+}
