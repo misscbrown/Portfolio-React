@@ -31,7 +31,7 @@ loaders.css": "^0.1.2",
 
 I've also used a JSON file to render my portfolio data (images, title, description, url)
 
-To view deployment: https://www.carla-portfolio-project.web.app
+To view deployment: https://carla-portfolio-project.web.app/
 
 Screenshot: 
 ![Screenshot](./portfolio-react/src/assets/images/Screenshot1.png)
